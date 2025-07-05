@@ -51,5 +51,13 @@ Model ile tahmin yapılır.
 Bu proje Yapay Zeka dersi için yapılmış olan bir final ödevidir.
 
 
+(img.1.png)
+
+(model_change.png)
+
+(streamlit.png)
+
+
+
 
 
