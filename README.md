@@ -50,7 +50,7 @@ Model ile tahmin yapılır.
 -Kullanıcının önceki tahminleri tablo halinde gösterilir.
 Bu proje Yapay Zeka dersi için yapılmış olan bir final ödevidir.
 
-![Ev Kirası Uygulaması](img.1png)
+![Ev Kirası Uygulaması](https://github.com/ozkercinbeyza/house-rent-prediction/blob/main/images/img.1.png)
 
 
 
