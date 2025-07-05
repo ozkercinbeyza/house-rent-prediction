@@ -50,12 +50,7 @@ Model ile tahmin yapılır.
 -Kullanıcının önceki tahminleri tablo halinde gösterilir.
 Bu proje Yapay Zeka dersi için yapılmış olan bir final ödevidir.
 
-
-(img.1.png)
-
-(model_change.png)
-
-(streamlit.png)
+![Ev Kirası Uygulaması](img.1png)
 
 
 
