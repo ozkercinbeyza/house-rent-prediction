@@ -8,10 +8,10 @@ fiyatı üzerindeki etkisi analiz edilmek istenmektedir.
 Bu analizde kullanılan veri seti, Hindistan’daki kiralık ev 
 ilanlarından oluşmaktadır. Modelleme süreciyle birlikte kira 
 fiyatlarını etkileyen temel faktörler belirlenerek: 
-● Kullanıcılara daha isabetli fiyat tahmini yapılması, 
-● Ev sahiplerine adil fiyat belirleme konusunda destek 
+ Kullanıcılara daha isabetli fiyat tahmini yapılması, 
+ Ev sahiplerine adil fiyat belirleme konusunda destek 
 sağlanması, 
-● Yeni kullanıcılar için kişiselleştirilmiş öneri sistemleri 
+●Yeni kullanıcılar için kişiselleştirilmiş öneri sistemleri 
 geliştirilmesi hedeflenmektedir. 
 İlk olarak Kaggle platformundan House Rent verisetini Colaba yüklendi.
 House_Rent_Dataset.csv dosyasında veriseti sütunları yer almaktadır.
